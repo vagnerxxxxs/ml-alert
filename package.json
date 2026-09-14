@@ -1,0 +1,12 @@
+{
+  "name": "ml-alert",
+  "version": "1.0.0",
+  "description": "Alerta de vendas e perguntas do Mercado Livre",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
